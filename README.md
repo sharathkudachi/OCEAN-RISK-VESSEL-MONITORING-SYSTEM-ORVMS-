@@ -237,6 +237,22 @@ It does not use classified data, real military feeds or operational intelligence
 
 # 👨‍💻 Author
 
-Developed as an advanced **Ocean Region Vessel Monitoring System (ORVMS)** project to demonstrate system design, geospatial intelligence and defence-oriented software architecture.
+**Sharath Y Kudachi**
+Computer Science & Engineering Student 
+BMS Institute of Technology & Management 
 
-Just tell me 👍
+📜 License
+
+This project is licensed under the **MIT License**.
+
+You are free to use, modify, and distribute with proper attribution.
+
+⭐ Support
+
+If you found this project useful:
+
+⭐ Star the repository  
+🍴 Fork and build your own version  
+📢 Share with others interested in defence technology and military history
+
+Developed as an advanced **Ocean Region Vessel Monitoring System (ORVMS)** project to demonstrate system design, geospatial intelligence and defence-oriented software architecture.
