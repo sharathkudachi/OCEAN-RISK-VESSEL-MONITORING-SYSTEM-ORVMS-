@@ -6,6 +6,8 @@ This project simulates the core principles and functional architecture used by m
 
 The system integrates geospatial intelligence, vessel tracking, automated alert generation, data persistence, and multi-source information ingestion into a unified command interface.
 
+[View Live](https://sharathkudachi.github.io/OCEAN-RISK-VESSEL-MONITORING-SYSTEM-ORVMS-/)
+
 ---
 
 # 🎯 Project Objectives
